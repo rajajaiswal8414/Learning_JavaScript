@@ -18,3 +18,14 @@ const BigInt = 1234567891011121314n
 // Reference (Non primitive)
 
 // Array, Objects, Functions
+const heros = ["shaktiman", "naagraj", "doga"];
+let myObj = {
+    name: "hitesh",
+    age: 22,
+}
+
+const myFunction = function(){
+    console.log("Hello world");
+}
+
+console.log(typeof anotherId);
