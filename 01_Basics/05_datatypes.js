@@ -20,7 +20,7 @@ const BigInt = 1234567891011121314n
 // Array, Objects, Functions
 const heros = ["shaktiman", "naagraj", "doga"];
 let myObj = {
-    name: "hitesh",
+    name: "raja",
     age: 22,
 }
 
